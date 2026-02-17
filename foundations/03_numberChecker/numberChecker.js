@@ -4,7 +4,7 @@ function numberChecker(number) {
   } else if (number === 10) {
   } else if (number === 9) {
     return false;
-  } else if (number ===6) {
+  } else if (number === 6) {
     return false;
   }
 }
